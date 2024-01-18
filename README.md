@@ -1,8 +1,8 @@
 ## 👋 Hi there, this is Tiekai Bi
 
-🧑‍🎓 &ensp; Hunzi in ZJU
+🧑‍🎓 &ensp; 2021-2024 MEng BME@ZJU | 2017-2021 BE EE@ZJU
 
-📖 &ensp; Majoring in **Instrumentation Engineering**
+📖 &ensp; Interested in **System Software Programming**
 
 🏷️ &ensp; **Languages & Tools**
 <p></p>
