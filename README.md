@@ -2,7 +2,7 @@
 
 🧑‍🎓 &ensp; 2021-2024 MEng BME@ZJU | 2017-2021 BE EE@ZJU
 
-📖 &ensp; Interested in **System Software Programming**
+📖 &ensp; Interested in **System Software Programming** [LinkedIn](https://www.linkedin.com/in/tiekai-bi-98b828250/)
 
 🏷️ &ensp; **Languages & Tools**
 <p></p>
@@ -19,7 +19,6 @@
 
 <p></p>
 
-[LinkedIn](https://www.linkedin.com/in/tiekai-bi-98b828250/)
 <!--
 **vc-zju/vc-zju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
