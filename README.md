@@ -1,8 +1,8 @@
 ## 👋 Hi there, this is Tiekai Bi
 
-🧑‍🎓 &ensp; 2021-2024 MEng BME@ZJU | 2017-2021 BE EE@ZJU
+🧑‍🎓 &ensp; 2021-2024 MEng BME@ZJU | 2017-2021 BE EE@ZJU   [LinkedIn](https://www.linkedin.com/in/tiekai-bi-98b828250/)
 
-📖 &ensp; Interested in **System Software Programming** [LinkedIn](https://www.linkedin.com/in/tiekai-bi-98b828250/)
+📖 &ensp; Interested in **System Software Programming** 
 
 🏷️ &ensp; **Languages & Tools**
 <p></p>
